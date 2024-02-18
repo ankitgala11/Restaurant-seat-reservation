@@ -9,10 +9,11 @@ const app = express();
 dotenv.config({ path: "./config/config.env" });
 
 app.use(
-  cors({
+  cors  ({
     origin: [process.env.FRONTEND_URL],
     methods: ["POST"],
     credentials: true,
+    optionSuccessStatus:200
   })
 );
 app.use(express.json());
