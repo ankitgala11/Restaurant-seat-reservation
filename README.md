@@ -1,4 +1,4 @@
-# Restaurant-seat-reservation
+# Restaurant-seat-reservation (MERN)
 Application used to reserve a seat for the fast food restaurant QuickBItes
 ![image](https://github.com/ankitgala11/Restaurant-seat-reservation/assets/58542521/5dd8fd32-5e15-4a5f-9472-78a43903140d)
 ![image](https://github.com/ankitgala11/Restaurant-seat-reservation/assets/58542521/f4d3d8c2-9b11-46a7-a06d-4a5f97bf0589)
